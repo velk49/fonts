@@ -6,4 +6,4 @@ an archive of webfonts
 
 ## list:
 
-- Monospace
+- Almarai
