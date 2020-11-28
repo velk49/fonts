@@ -1,3 +1,27 @@
+@import url(https://fonts.googleapis.com/css2?family=Noto+Serif); /*Latin, Cyrilic, Greek, Vietnamese*/
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker); /*h1 header*/
+@import url(https://fonts.googleapis.com/css2?family=David+Libre); /*hebrew*/
+@import url(https://fonts.googleapis.com/css2?family=Noto+Serif+KR); /*korean*/
+@import url(https://fonts.googleapis.com/css2?family=Noto+SerifJP); /*japanese*/
+@import url(https://fonts.googleapis.com/css2?family=Noto+Serif+TC); /*traditional chinese*/
+@import url(https://fonts.googleapis.com/css2?family=Noto+Serif+SC); /*simplified chinese*/
+@import url(https://fonts.googleapis.com/css2?family=Odor+Mean+Chey); /*khmer*/
+@import url(https://fonts.googleapis.com/css2?family=Eczar); /*devanagari*/
+@import url(https://fonts.googleapis.com/css2?family=Arima+Madurai); /*tamil*/
+@import url(https://fonts.googleapis.com/css2?family=Peddana); /*telugu*/
+@import url(https://fonts.googleapis.com/css2?family=Gayathri); /*malayalam*/
+@import url(https://fonts.googleapis.com/css2?family=Rasa); /*gujarati*/
+@import url(https://fonts.googleapis.com/css2?family=Mukta+Mahee); /*gurmukhi punjabi*/
+
+@import url(https://fonts.googleapis.com/earlyaccess/notoserifthai.css); /*thai*/
+@import url(https://fonts.googleapis.com/earlyaccess/notoseriflao.css); /*laotian*/
+@import url(https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css); /*default arabic*/
+@import url(https://fonts.googleapis.com/earlyaccess/notonastaliqurdu.css); /*urdu nastaliq*/
+@import url(https://fonts.googleapis.com/earlyaccess/notosanskannada.css); /*kannada*/
+@import url(https://fonts.googleapis.com/earlyaccess/notosansoriya.css); /*oriya*/
+@import url(https://fonts.googleapis.com/earlyaccess/tharlon.css); /*burmese*/
+@import url(https://fonts.googleapis.com/earlyaccess/notosansbengali.css); /*bengali*/
+
 @font-face {
   font-family: 'Almarai';
   font-style: normal;
@@ -53,4 +77,3 @@
     font-style: normal;
     font-display: swap;
 }
-
