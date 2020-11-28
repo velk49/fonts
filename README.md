@@ -7,7 +7,9 @@ an archive of webfonts
 [/stylesheet.css](stylesheet.css)
 
 ## list
+
 ### google fonts
+
 - `'Noto Serif'` (Latin, Greek, Cyrillic)
 - `'Permanent Marker'`(Latin)
 - `'David Libre', serif` (Hebrew)
@@ -22,7 +24,9 @@ an archive of webfonts
 - `'Gayathri', sans-serif` (Malayalam)
 - `'Rasa', serif` (Gujarati)
 - `'Mukta Mahee', sans-serif` (Gurmukhi Punjabi)
+
 ### storage webfonts
+
 - `'Almarai'` (Arabic)
 - `'Qomolangma-Uchen Sarchung'` (Tibetan)
 - `'Noto Sans Siddham'`(Siddham)
