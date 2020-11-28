@@ -43,3 +43,8 @@ an archive of webfonts
 - `'XM_ZB'` XM_ZhengBai (Manchu)
 - `'Onon Sonin Sans'` (Mongolian)
 - `'Yagpo Tibetan Uni'` (Tibetan)
+- `'Noto Serif Georgian'` (Georgian)
+- `'Amarawathi-UPB', serif` (Sinhala)
+- `'Noto Sans Soyombo'` (Soyombo)
+- `'Noto Sans Brahmi'` (Brahmi)
+- `'ArmBoloragir'` (Armenian)
