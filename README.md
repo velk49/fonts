@@ -10,7 +10,7 @@ an archive of webfonts
 
 ### google fonts
 
-- `'Noto Serif'` (Latin, Greek, Cyrillic)
+- `'Noto Serif'` (Latin+Greek+Cyrillic)
 - `'Permanent Marker'`(Latin)
 - `'David Libre', serif` (Hebrew)
 - `'Noto Serif KR'` (Korean)
