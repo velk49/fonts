@@ -7,3 +7,6 @@ an archive of webfonts
 ## list:
 
 - Almarai (Arabic)
+- Qomolangma-Uchen Sarchung (Tibetan)
+- Noto Sans Siddham
+- Mongolian Universal White
