@@ -45,3 +45,12 @@
 	src:local('Onon Sonin Sans'),
     		url('OnonSoninSans.woff') format('woff');
 }
+@font-face {
+    font-family: 'Yagpo Tibetan Uni';
+    src: url('YagpoTibetanUni.woff2') format('woff2'),
+        url('YagpoTibetanUni.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
