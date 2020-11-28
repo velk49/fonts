@@ -15,4 +15,4 @@ an archive of webfonts
 - `Mongolian Test`
 - `XM_ZB` XM_ZhengBai (Manchu)
 - `Onon Sonin Sans` (Mongolian)
-= `Yagpo Tibetan Uni`
+- `Yagpo Tibetan Uni`
