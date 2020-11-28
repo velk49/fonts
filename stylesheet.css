@@ -35,3 +35,8 @@
 	src:local('Mongolian Test'),
 		url('MongolianTest.ttf') format('truetype');
 }
+@font-face {
+	font-family: 'XM_ZB';
+	src:local('XM_ZB'),
+		url('XM_ZhengBai.ttf') format('truetype');
+}
