@@ -14,3 +14,4 @@ an archive of webfonts
 - `Mongolian Universal White`
 - `Mongolian Test`
 - `XM_ZB` XM_ZhengBai (Manchu)
+- `Onon Sonin Sans` (Mongolian)
