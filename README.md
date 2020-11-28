@@ -13,3 +13,4 @@ an archive of webfonts
 - `Noto Sans Siddham`
 - `Mongolian Universal White`
 - `Mongolian Test`
+- `XM_ZB` XM_ZhengBai (Manchu)
