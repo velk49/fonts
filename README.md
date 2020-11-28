@@ -10,3 +10,4 @@ an archive of webfonts
 - Qomolangma-Uchen Sarchung (Tibetan)
 - Noto Sans Siddham
 - Mongolian Universal White
+- Mongolian Test
