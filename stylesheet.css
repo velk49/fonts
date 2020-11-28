@@ -77,3 +77,43 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'Noto Serif Georgian';
+    src: url('NotoSerifGeorgian-Regular.woff2') format('woff2'),
+        url('NotoSerifGeorgian-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Amarawathi-UPB';
+    src: url('Amarawathi-UPB.woff2') format('woff2'),
+        url('Amarawathi-UPB.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Noto Sans Soyombo';
+    src: url('NotoSansSoyombo-Regular.woff2') format('woff2'),
+        url('NotoSansSoyombo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Noto Sans Brahmi';
+    src: url('NotoSansBrahmi.woff2') format('woff2'),
+        url('NotoSansBrahmi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'ArmBoloragir';
+    src: url('ArmBoloragir-Italic.woff2') format('woff2'),
+        url('ArmBoloragir-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
