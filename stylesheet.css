@@ -60,9 +60,20 @@
 		url('MongolianTest.ttf') format('truetype');
 }
 @font-face {
-	font-family: 'XM_ZB';
-	src:local('XM_ZB'),
-		url('XM_ZhengBai.ttf') format('truetype');
+    font-family: 'XM_ZB';
+    src: url('Fu_XM_ZhengBai_PSMT.woff2') format('woff2'),
+        url('Fu_XM_ZhengBai_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'XM_BH';
+    src: url('Fu_XM_BiaoHei_PSMT.woff2') format('woff2'),
+        url('Fu_XM_BiaoHei_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 @font-face {
  	font-family: 'Onon Sonin Sans';
