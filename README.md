@@ -41,6 +41,7 @@ an archive of webfonts
 - `'Mongolian Universal White'` (Mongolian+Manchu)
 - `'Mongolian Test'`(Mongolian)
 - `'XM_ZB'` XM_ZhengBai (Manchu)
+- `'XM_BH'` XM_BiaoHei (Manchu)
 - `'Onon Sonin Sans'` (Mongolian)
 - `'Yagpo Tibetan Uni'` (Tibetan)
 - `'Noto Serif Georgian'` (Georgian)
