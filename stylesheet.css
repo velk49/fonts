@@ -129,3 +129,8 @@
     font-style: italic;
     font-display: swap;
 }
+@font-face {
+ 	font-family: 'Nom Na Tong Light';
+	src:local('Nom Na Tong Light'),
+    		url('NomNaTongLight.ttf') format('woff');
+}
