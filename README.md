@@ -50,3 +50,4 @@ an archive of webfonts
 - `'Noto Sans Soyombo'` (Soyombo)
 - `'Noto Sans Brahmi'` (Brahmi)
 - `'ArmBoloragir'` (Armenian)
+- `Nom Na Tong Light` (Vietnamese hữ Nôm)
