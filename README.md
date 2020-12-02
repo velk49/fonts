@@ -51,3 +51,4 @@ an archive of webfonts
 - `'Noto Sans Brahmi'` (Brahmi)
 - `'ArmBoloragir'` (Armenian)
 - `'Nom Na Tong Light'` (Vietnamese Chữ Nôm)
+- `'Menk Garqag Tig'` (Mongolain)
