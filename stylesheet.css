@@ -134,3 +134,11 @@
 	src:local('Nom Na Tong Light'),
     		url('NomNaTongLight.ttf') format('woff');
 }
+@font-face {
+    font-family: 'Menk Garqag Tig';
+    src: url('MenkGarqagTig.woff2') format('woff2'),
+        url('MenkGarqagTig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
