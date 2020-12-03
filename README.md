@@ -52,3 +52,7 @@ an archive of webfonts
 - `'ArmBoloragir'` (Armenian)
 - `'Nom Na Tong Light'` (Vietnamese Chữ Nôm)
 - `'Menk Garqag Tig'` (Mongolian)
+
+## License
+
+MIT
