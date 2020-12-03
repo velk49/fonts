@@ -142,3 +142,10 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'Menksoft2012';
+    src: url('Menksoft2012') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
