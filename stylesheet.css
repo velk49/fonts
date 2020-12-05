@@ -149,3 +149,11 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'Oyun Garbiqimel Tig';
+    src: url('OyunGarbiqimelTig.woff2') format('woff2'),
+        url('OyunGarbiqimelTig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
