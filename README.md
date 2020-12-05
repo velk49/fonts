@@ -53,6 +53,7 @@ an archive of webfonts
 - `'Nom Na Tong Light'` (Vietnamese Chữ Nôm)
 - `'Menk Garqag Tig'` (Mongolian)
 - `'Menksoft2012'` (Mongolian)
+- `'Oyun Garbiqimel Tig'` (Mongolian)
 
 ## License
 
