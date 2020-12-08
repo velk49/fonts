@@ -54,6 +54,7 @@ an archive of webfonts
 - `'Menk Garqag Tig'` (Mongolian)
 - `'Menksoft2012'` (Mongolian)
 - `'Oyun Garbiqimel Tig'` (Mongolian)
+- `'Todo_rom' (Kalmyk Oirat Todo)`
 
 ## License
 
