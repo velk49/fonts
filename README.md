@@ -55,7 +55,7 @@ an archive of webfonts
 - `'Menksoft2012'` (Mongolian)
 - `'Oyun Garbiqimel Tig'` (Mongolian)
 - `'Todo_rom'` (Oirat Todo)
-- `'ApDevaSiddham'` (Devanagari)
+- `'ApDevaSiddham'` (Devanagari and Siddham)
 
 ## License
 
