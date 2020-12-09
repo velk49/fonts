@@ -56,7 +56,6 @@ an archive of webfonts
 - `'Oyun Garbiqimel Tig'` (Mongolian)
 - `'Todo_rom'` (Oirat Todo)
 - `'ApDevaSiddham'` (Devanagari and Siddham)
-- `'Tibetan Machine Uni'` (Tibetan)
 
 ## License
 
