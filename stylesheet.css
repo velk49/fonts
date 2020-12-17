@@ -173,3 +173,18 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+font-family: 'Mongolian Writing';
+src:local('Mongolian Writing'), url('mnglwritingaat.ttf') format('truetype');
+src:local('Mongolian Writing'), url('mnglwritingotf.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Mongolian Art';
+src:local('Mongolian Art'), url('mnglartaat.ttf') format('truetype');
+src:local('Mongolian Art'), url('mnglartotf.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Mongolian Title';
+src:local('Mongolian Title'), url('mngltitleaat.ttf') format('truetype');
+src:local('Mongolian Title'), url('mngltitleotf.ttf') format('truetype');
+}
