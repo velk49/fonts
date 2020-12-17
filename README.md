@@ -6,6 +6,8 @@ an archive of webfonts
 
 [/stylesheet.css](stylesheet.css)
 
+[../manchu-fonts/](../manchu-fonts/)
+
 ## list
 
 ### google fonts
