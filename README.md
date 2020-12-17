@@ -56,6 +56,9 @@ an archive of webfonts
 - `'Oyun Garbiqimel Tig'` (Mongolian)
 - `'Todo_rom'` (Oirat Todo)
 - `'ApDevaSiddham'` (Devanagari and Siddham)
+- `'Mongolian Writing'` (Mongolian)
+- `'Mongolian Art'` (Mongolian)
+- `'Mongolian Title'` (Mongolian)
 
 ## License
 
