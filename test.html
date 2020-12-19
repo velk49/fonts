@@ -1,0 +1,22 @@
+<title>font tester</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+html {
+  max-width: 38rem;
+  padding: 2rem;
+  margin: auto;
+  word-wrap: break-word
+}
+#fontTest {
+    font-size: 30px;
+    width: 100%;
+}
+</style>
+<textarea id="fontTest" rows="3" placeholder="enter text"></textarea>
+<textarea id="input" oninput="myFunction()" placeholder="enter font" rows="1">
+</textarea>
+<script>
+function myFunction() {
+  document.getElementById("fontTest").style.fontFamily = document.getElementById('input').value;
+}
+</script>
