@@ -18,8 +18,8 @@ html {
     width: 50%;
 }
 </style>
-<textarea id="fontTest" rows="5" placeholder="text"></textarea><hr>
-<textarea id="input" oninput="myFunction()" placeholder="type in a font" rows="1"></textarea><br>
+<textarea id="fontTest" rows="5" placeholder="text" spellcheck="false"></textarea><hr>
+<textarea id="input" oninput="myFunction()" placeholder="type in a font" rows="1" spellcheck="false"></textarea><br>
 
 align right <input type="checkbox" id="ac" onclick="alignChange()">
 <script>
@@ -31,9 +31,9 @@ function alignChange() {
   var checkBox = document.getElementById("ac");
   var text = document.getElementById("text");
   if (checkBox.checked == true){
-document.getElementById("fontTest").style.textAlign = 'right';
+document.getElementById("fontTest").dir = 'rtl';
   } else {
-document.getElementById("fontTest").style.textAlign = 'left';
+document.getElementById("fontTest").dir = 'ltr';
   }
 }
 </script>
