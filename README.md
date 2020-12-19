@@ -42,7 +42,7 @@ an archive of webfonts
 - `'Qomolangma-Uchen Sarchung'` (Tibetan)
 - `'Noto Sans Siddham'`(Siddham)
 - `'Mongolian Universal White'` (Mongolian+Manchu)
-- `'Mongolian Test'`(Mongolian)
+- `'Mongolian Test'`(Mongolian - China)
 - `'XM_ZB'` XM_ZhengBai (Manchu)
 - `'XM_BH'` XM_BiaoHei (Manchu)
 - `'Onon Sonin Sans'` (Mongolian)
