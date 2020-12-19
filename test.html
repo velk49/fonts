@@ -12,9 +12,8 @@ html {
     width: 100%;
 }
 </style>
-<textarea id="fontTest" rows="3" placeholder="enter text"></textarea>
-<textarea id="input" oninput="myFunction()" placeholder="enter font" rows="1">
-</textarea>
+<textarea id="fontTest" rows="5" placeholder="enter text"></textarea><hr>
+<textarea id="input" oninput="myFunction()" placeholder="enter font" rows="1"></textarea>
 <script>
 function myFunction() {
   document.getElementById("fontTest").style.fontFamily = document.getElementById('input').value;
