@@ -9,6 +9,8 @@ html {
   word-wrap: break-word;
   font-family: Arial;
 }
+a:link {color: blue;}
+a:visited {color: blue;}
 #fontTest {
     font-size: 30px;
     width: 100%;
@@ -19,14 +21,12 @@ html {
 }
 </style>
 <textarea id="fontTest" rows="5" placeholder="text" spellcheck="false"></textarea><hr>
-<textarea id="input" oninput="myFunction()" placeholder="type in a font" rows="1" spellcheck="false"></textarea><br>
-
-align right <input type="checkbox" id="ac" onclick="alignChange()">
+<p><a href="stylesheet.css" target="_blank">/stylesheet.css</a> | align right <input type="checkbox" id="ac" onclick="alignChange()"></p>
+<p><textarea id="input" oninput="myFunction()" placeholder="type in a font" rows="1" spellcheck="false"></textarea></p>
 <script>
 function myFunction() {
   document.getElementById("fontTest").style.fontFamily = document.getElementById('input').value;
 }
-
 function alignChange() {
   var checkBox = document.getElementById("ac");
   var text = document.getElementById("text");
