@@ -62,7 +62,7 @@ an archive of webfonts
 - `'Mongolian Writing'` (Mongolian)
 - `'Mongolian Art'` (Mongolian)
 - `'Mongolian Title'` (Mongolian)
-
+- `'MongolianScript'` (Mongolian)
 ## License
 
 MIT
