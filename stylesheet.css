@@ -193,3 +193,8 @@ font-family: 'Mongolian Title';
 src:local('Mongolian Title'), url('mngltitleaat.ttf') format('truetype');
 src:local('Mongolian Title'), url('mngltitleotf.ttf') format('truetype');
 }
+@font-face {
+	font-family: 'MongolianScript';
+	src:local('MongolianScript'),
+		url('MongolianScript.ttf') format('truetype');
+}
