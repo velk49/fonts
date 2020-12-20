@@ -76,6 +76,7 @@ an archive of webfonts
 - `Garchag` (Mongolian)
 - `Syurga` (Mongolian)
 - `Urga` (Mongolian)
+- `Menk Mcdvnbar Tig` (Mongolian)
 
 ## License
 
