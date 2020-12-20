@@ -69,11 +69,11 @@ an archive of webfonts
 - `Mongolian Title` (Mongolian)
 - `MongolianScript` (Mongolian)
 - `Noto Sans Mongolian, sans-serif` (Mongolian)
-- `Bichimel`, (Mongolian)
-- `Chagan`, (Mongolian)
-- `Garchag`, (Mongolian)
-- `Syurga`, (Mongolian)
-- `Urga`, (Mongolian)
+- `Bichimel` (Mongolian)
+- `Chagan` (Mongolian)
+- `Garchag` (Mongolian)
+- `Syurga` (Mongolian)
+- `Urga` (Mongolian)
 
 ## License
 
