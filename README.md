@@ -65,6 +65,9 @@ an archive of webfonts
 - `'Mongolian Art'` (Mongolian)
 - `'Mongolian Title'` (Mongolian)
 - `'MongolianScript'` (Mongolian)
+- `'BhashitaComplex'` (Sinhala)
+- `'BhashitaComplexSans'` (Sinhala)
+
 ## License
 
 MIT
