@@ -213,3 +213,23 @@ src:local('Mongolian Title'), url('mngltitleotf.ttf') format('truetype');
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+font-family: 'Bichimel';
+src:local('Bichimel'), url('Bichimel.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Chagan';
+src:local('Chagan'), url('Chagan.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Garchag';
+src:local('Garchag'), url('Garchag.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Syurga';
+src:local('Syurga'), url('Syurga.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Urga';
+src:local('Urga'), url('Urga.ttf') format('truetype');
+}
