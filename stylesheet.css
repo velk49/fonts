@@ -51,7 +51,7 @@
     font-family: 'Mongolian Universal White';
     src: url('MongolianUniversalWhite.woff2') format('woff2'),
         url('MongolianUniversalWhite.woff') format('woff'),
-	url('MongolianUniversalWhite.ttf') format('truetype')
+	url('MongolianUniversalWhite.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
