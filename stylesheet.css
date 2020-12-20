@@ -208,35 +208,3 @@ src:local('Mongolian Title'), url('mngltitleotf.ttf') format('truetype');
 	src:local('BhashitaComplexSans'),
 		url('BhashitaComplexSans.ttf') format('truetype');
 }
-@font-face {
-    font-family: 'FMMalithi';
-    src: url('FMMalithix.woff2') format('woff2'),
-        url('FMMalithix.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'FMGemunu';
-    src: url('FMGemunux.woff2') format('woff2'),
-        url('FMGemunux.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'FN NILANTHI';
-    src: url('FNNILANTHINormal.woff2') format('woff2'),
-        url('FNNILANTHINormal.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'FMBindumathi';
-    src: url('FMBindumathix.woff2') format('woff2'),
-        url('FMBindumathix.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
