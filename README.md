@@ -36,7 +36,6 @@ an archive of webfonts
 - `'Noto Sans Oriya', sans-serif` (Oriya)
 - `'Tharlon', sans-serif` (Burnese)
 - `'Noto Sans Bengali', sans-serif` (Bengali)
-- `'Noto Sans Mongolian', sans-serif` (Mongolian)
 
 ### storage webfonts
 
@@ -67,6 +66,8 @@ an archive of webfonts
 - `'MongolianScript'` (Mongolian)
 - `'BhashitaComplex'` (Sinhala)
 - `'BhashitaComplexSans'` (Sinhala)
+- `'Noto Sans Mongolian', sans-serif` (Mongolian)
+
 
 ## License
 
