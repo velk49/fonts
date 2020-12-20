@@ -208,3 +208,23 @@ src:local('Mongolian Title'), url('mngltitleotf.ttf') format('truetype');
 	src:local('BhashitaComplexSans'),
 		url('BhashitaComplexSans.ttf') format('truetype');
 }
+@font-face {
+	font-family: 'FM_Gemunu';
+	src:local('FM_Gemunu'),
+		url('FM_Gemunu.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'FN_Nilanthi';
+	src:local('FN_Nilanthi'),
+		url('FN_Nilanthi.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'FM_Malithi';
+	src:local('FM_Malithi'),
+		url('FM_Malithi.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'FM_Bindumathi';
+	src:local('FM_Bindumathi'),
+		url('FM_Bindumathi.ttf') format('truetype');
+}
