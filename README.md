@@ -67,6 +67,10 @@ an archive of webfonts
 - `'MongolianScript'` (Mongolian)
 - `'BhashitaComplex'` (Sinhala)
 - `'BhashitaComplexSans'` (Sinhala)
+- `'FM_Gemunu'` (Sinhala)
+- `'FN_Nilanthi'` (Sinhala)
+- `'FM_Malithi'` (Sinhala)
+- `'FM_Bindumathi'` (Sinhala)
 
 ## License
 
