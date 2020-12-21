@@ -36,7 +36,7 @@ an archive of webfonts
 - `Noto Nastaliq Urdu` (Perso-Arabic Nastaliq Urdu)
 - `Noto Sans Kannada, sans-serif` (Kannada)
 - `Noto Sans Oriya, sans-serif` (Oriya)
-- `Tharlon, sans-serif` (Burnese)
+- `Tharlon, sans-serif` (Burmese)
 - `Noto Sans Bengali, sans-serif` (Bengali)
 
 ### storage webfonts
