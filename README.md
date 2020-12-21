@@ -58,6 +58,7 @@ an archive of webfonts
 - `BhashitaComplex` (Sinhala)
 - `BhashitaComplexSans` (Sinhala)
 - `Roboto Mono` (Latin)
+- `Consolas` (Latin)
 
 ### Mongolian
 - `Mongolian Universal White` (Mongolian+Manchu)
