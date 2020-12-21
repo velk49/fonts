@@ -57,6 +57,7 @@ an archive of webfonts
 - `ApDevaSiddham` (Devanagari and Siddham)
 - `BhashitaComplex` (Sinhala)
 - `BhashitaComplexSans` (Sinhala)
+- `Roboto Mono` (Latin)
 
 ### Mongolian
 - `Mongolian Universal White` (Mongolian+Manchu)
