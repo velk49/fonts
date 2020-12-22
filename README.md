@@ -59,6 +59,7 @@ an archive of webfonts
 - `BhashitaComplexSans` (Sinhala)
 - `Roboto Mono` (Latin)
 - `Consolas` (Latin, Greek, Cyrillic, Armenian)
+- `Noto Sans Mono` (Latin, Greek, Cyrillic)
 
 ### Mongolian
 - `Mongolian Universal White` (Mongolian+Manchu)
