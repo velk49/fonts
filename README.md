@@ -16,7 +16,7 @@ an archive of webfonts
 
 ### google fonts
 
-- `Noto Serif` (Latin+Greek+Cyrillic)
+- `Noto Serif` (Latin, Greek, Cyrillic)
 - `Permanent Marker` (Latin)
 - `David Libre, serif` (Hebrew)
 - `Noto Serif KR` (Korean)
@@ -58,7 +58,7 @@ an archive of webfonts
 - `BhashitaComplex` (Sinhala)
 - `BhashitaComplexSans` (Sinhala)
 - `Roboto Mono` (Latin)
-- `Consolas` (Latin)
+- `Consolas` (Latin, Greek, Cyrillic, Armenian)
 
 ### Mongolian
 - `Mongolian Universal White` (Mongolian+Manchu)
