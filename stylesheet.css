@@ -269,3 +269,56 @@ src:local('Urga'), url('Urga.ttf') format('truetype');
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'Menksoft Todo_Hara';
+    src: url('MenksoftTodo_Hara.woff2') format('woff2'),
+        url('MenksoftTodo_Hara.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Menksoft Todo_Garqag';
+    src: url('MenksoftTodo_Garqag.woff2') format('woff2'),
+        url('MenksoftTodo_Garqag.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Menksoft Todo_Biqimel';
+    src: url('MenksoftTodo_Biqimel.woff2') format('woff2'),
+        url('MenksoftTodo_Biqimel.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Menksoft Todo_Qagan';
+    src: url('MenksoftTodo_Qagan.woff2') format('woff2'),
+        url('MenksoftTodo_Qagan.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MenksoftHuiHu1';
+    src: url('MenksoftHuiHu1.woff2') format('woff2'),
+        url('MenksoftHuiHu1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MenksoftHuiHu2';
+    src: url('MenksoftHuiHu2.woff2') format('woff2'),
+        url('MenksoftHuiHu2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
