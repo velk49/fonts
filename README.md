@@ -80,6 +80,7 @@ an archive of webfonts
 - `Syurga` (Mongolian)
 - `Urga` (Mongolian)
 - `Menk Mcdvnbar Tig` (Mongolian)
+- `Mongolian Baiti` (Mongolian)
 
 ## License
 
