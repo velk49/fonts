@@ -61,27 +61,6 @@ an archive of webfonts
 - `Consolas` (Latin, Greek, Cyrillic, Armenian)
 - `Noto Sans Mono` (Latin, Greek, Cyrillic)
 
-### Mongolian
-- `Mongolian Universal White` (Mongolian+Manchu)
-- `Mongolian Test`(Mongolian - China)
-- `Onon Sonin Sans` (Mongolian)
-- `Menk Garqag Tig` (Mongolian)
-- `Menksoft2012` (Mongolian)
-- `Oyun Garbiqimel Tig` (Mongolian)
-- `Mongolian White` (Mongolian)
-- `Mongolian Writing` (Mongolian)
-- `Mongolian Art` (Mongolian)
-- `Mongolian Title` (Mongolian)
-- `MongolianScript` (Mongolian)
-- `Noto Sans Mongolian, sans-serif` (Mongolian)
-- `Bichimel` (Mongolian)
-- `Chagan` (Mongolian)
-- `Garchag` (Mongolian)
-- `Syurga` (Mongolian)
-- `Urga` (Mongolian)
-- `Menk Mcdvnbar Tig` (Mongolian)
-- `Mongolian Baiti` (Mongolian)
-
 ## License
 
 MIT
