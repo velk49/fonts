@@ -60,6 +60,7 @@ an archive of webfonts
 - `Roboto Mono` (Latin)
 - `Consolas` (Latin, Greek, Cyrillic, Armenian)
 - `Noto Sans Mono` (Latin, Greek, Cyrillic)
+  - monospace - `Consolas, Noto Sans Mono`
 - `Menksoft Todo_Hara` (Mongolian Todo) ?
 - `Menksoft Todo_Garqag` (Mongolian Todo) ?
 - `Menksoft Todo_Biqimel` (Mongolian Todo) ?
