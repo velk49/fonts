@@ -322,3 +322,36 @@ src:local('Urga'), url('Urga.ttf') format('truetype');
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'Khitan Small Linear';
+    src: url('KhitanSmallLinear.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BabelStone Khitan Small Linear';
+    src: url('BabelStoneKhitanSmallLinear.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Khitan Small Vertical';
+    src: url('KhitanSmallVertical.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Khitan Small Rotated';
+    src: url('KhitanSmallRotated.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
