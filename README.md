@@ -67,7 +67,14 @@ an archive of webfonts
 - `Menksoft Todo_Qagan` (Mongolian Todo) ?
 - `MenksoftHuiHu1` (Mongolian Uyghur) ?
 - `MenksoftHuiHu2` (Mongolian Uyghur) ?
+- `Khitan Small Linear` (Khitan small)
+- `BabelStone Khitan Small Linear` (Khitan small)
+- `Khitan Small Vertical` (Khitan small)
+- `Khitan Small Rotated` (Khitan small)
 
 ## License
 
 MIT
+
+
+## Please leave a note on *issues* for any copyright claim.
