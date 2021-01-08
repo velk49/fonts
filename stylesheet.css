@@ -355,3 +355,11 @@ src:local('Urga'), url('Urga.ttf') format('truetype');
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'ALKATIP Basma Tom';
+    src: url('ALKATIPBASMATOM.woff') format('woff'),
+        url('ALKATIPBASMATOM.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
