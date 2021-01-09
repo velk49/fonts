@@ -363,3 +363,7 @@ src:local('Urga'), url('Urga.ttf') format('truetype');
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'Noto Sans Kaithi';
+    src: url('NotoSansKaithi-Regular.otf') format('opentype');
+}
