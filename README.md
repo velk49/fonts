@@ -71,7 +71,8 @@ an archive of webfonts
 - `BabelStone Khitan Small Linear` (Khitan small)
 - `Khitan Small Vertical` (Khitan small)
 - `Khitan Small Rotated` (Khitan small)
-- `ALKATIP Basma Tom` (Arabic script for Uyghur language)
+- `ALKATIP Basma Tom` (Arabic script for Uyghur, Kazakh, Kyrgyz)
+- `Noto Sans Kaithi` (Kaithi)
 
 ## License
 
