@@ -73,6 +73,7 @@ an archive of webfonts
 - `Khitan Small Rotated` (Khitan small)
 - `ALKATIP Basma Tom` (Arabic script for Uyghur, Kazakh, Kyrgyz)
 - `Noto Sans Kaithi` (Kaithi)
+- `KaiTi` (Chinese)
 
 ## License
 
