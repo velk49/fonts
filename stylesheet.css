@@ -372,6 +372,6 @@ font-family: 'UKIJ Diwani Kawak';
 src:local('UKIJ Diwani Kawak'), url('UKIJDiK.ttf') format('truetype');
 }
 @font-face {
-font-family: 'UKIJ Tuz Basma (Bold)';
-src:local('UKIJ Tuz Basma (Bold)'), url('UKIJTuzBB.ttf') format('truetype');
+font-family: 'UKIJ Tuz Basma Bold';
+src:local('UKIJ Tuz Basma Bold'), url('UKIJTuzBB.ttf') format('truetype');
 }
