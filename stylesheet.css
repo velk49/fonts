@@ -83,11 +83,7 @@
 }
 @font-face {
     font-family: 'Yagpo Tibetan Uni';
-    src: url('YagpoTibetanUni.woff2') format('woff2'),
-        url('YagpoTibetanUni.woff') format('woff'),
-	url(YagpoUni.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    src: url(YagpoTibetanUni.woff2) format('woff2');
     font-display: swap;
 }
 @font-face {
