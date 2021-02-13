@@ -367,3 +367,7 @@ src:local('Urga'), url('Urga.ttf') format('truetype');
 font-family: 'KaiTi';
 src:local('KaiTi'), url('kaiti.ttf') format('truetype');
 }
+@font-face {
+font-family: 'UKIJ Diwani Kawak';
+src:local('UKIJ Diwani Kawak'), url('UKIJDiK.ttf') format('truetype');
+}
