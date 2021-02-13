@@ -74,7 +74,8 @@ an archive of webfonts
 - `ALKATIP Basma Tom` (Arabic script for Uyghur, Kazakh, Kyrgyz)
 - `Noto Sans Kaithi` (Kaithi)
 - `KaiTi` (Chinese)
-- `UKIJ Diwani Kawak` (Uyghur)
+- `UKIJ Diwani Kawak` (Uyghur, Kazakh, Kyrgyz - Arabic, Latin)
+- `UKIJ Tuz Basma Bol` (Uyghur, Kazakh, Kyrgyz - Arabic, Latin, Cyrillic)
 
 ## License
 
