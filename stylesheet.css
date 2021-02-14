@@ -259,6 +259,7 @@ src:local('Urga'), url('Urga.ttf') format('truetype');
 @font-face {
 font-family: 'Mongolian Baiti';
 src: url('monbaiti.ttf') format('truetype');
+unicode-range: U+1800-18AA, U+202F;
 }
 @font-face {
     font-family: 'Menksoft Todo_Hara';
