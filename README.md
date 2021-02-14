@@ -78,6 +78,7 @@ an archive of webfonts
 - `KaiTi` (Chinese)
 - `UKIJ Diwani Kawak` (Uyghur, Kazakh, Kyrgyz - Arabic, Latin)
 - `UKIJ Tuz Basma Bol` (Uyghur, Kazakh, Kyrgyz - Arabic, Latin, Cyrillic)
+- `Mongolian Baiti` (Mongolian, Manchu, Todo)
 
 ## License
 
