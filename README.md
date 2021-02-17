@@ -25,7 +25,6 @@ an archive of webfonts
 - `Noto Serif JP` (Japanese)
 - `Noto Serif TC` (traditional Chinese)
 - `Noto Serif SC` (simplified Chinese)
-- `Odor Mean Chey, cursive` (Khmer)
 - `Eczar, serif` (Devanagari)
 - `Arima Madurai` (Tamil)
 - `Peddana, serif` (Telugu)
@@ -38,7 +37,6 @@ an archive of webfonts
 - `Noto Nastaliq Urdu` (Perso-Arabic Nastaliq Urdu)
 - `Noto Sans Kannada, sans-serif` (Kannada)
 - `Noto Sans Oriya, sans-serif` (Oriya)
-- `Tharlon, sans-serif` (Burmese)
 - `Noto Sans Bengali, sans-serif` (Bengali)
 
 ### storage webfonts
@@ -79,6 +77,8 @@ an archive of webfonts
 - `UKIJ Diwani Kawak` (Uyghur, Kazakh, Kyrgyz - Arabic, Latin)
 - `UKIJ Tuz Basma Bol` (Uyghur, Kazakh, Kyrgyz - Arabic, Latin, Cyrillic)
 - `Mongolian Baiti` (Mongolian, Manchu, Todo) `unicode-range: U+1800-18AA, U+202F`
+- `Tharlon, sans-serif` (Burmese)
+- `Odor Mean Chey` (Khmer)
 
 ## License
 
