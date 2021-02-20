@@ -12,7 +12,7 @@ an archive of webfonts
 
 [../manchu-fonts/](../manchu-fonts/)
 
-[../fonts-for-uyghur-arabic-script/](../fonts-for-uyghur-arabic-script/)
+[../uyghur-arabic-script-fonts/](../fonts-for-uyghur-arabic-script/)
 
 ## list
 
