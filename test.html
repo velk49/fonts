@@ -15,7 +15,7 @@ html {
 a:link {color: blue;}
 a:visited {color: blue;}
 #fontTest {
-    font-size: 45px;
+    font-size: 42px;
     width: 100%;
 }
 #input {
@@ -24,9 +24,9 @@ a:visited {color: blue;}
 }
 textarea {padding: 5px}
 </style>
-<textarea id="fontTest" rows="8" placeholder="text" spellcheck="false"></textarea><hr>
+<textarea id="fontTest" rows="7" placeholder="text" spellcheck="false"></textarea><hr>
 <p><a href="index.html" target="_blank">fonts</a> | <a href="../mongol-fonts/" target="_blank">Mongolian fonts</a>  | <a href="../manchu-fonts/" target="_blank">Manchu fonts</a> | <a href="../uyghur-arabic-script-fonts/" target="_blank">Uyghur fonts</a> | align right <input type="checkbox" id="ac" onclick="alignChange()"></p>
-<p><textarea id="input" oninput="myFunction()" placeholder="type in a font/fonts" rows="3" spellcheck="false"></textarea></p>
+<p><textarea id="input" oninput="myFunction()" placeholder="type in a font/fonts" rows="2" spellcheck="false"></textarea></p>
 <script>
 function myFunction() {
   document.getElementById("fontTest").style.fontFamily = document.getElementById('input').value;
