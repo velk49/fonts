@@ -79,6 +79,7 @@ an archive of webfonts
 - `Mongolian Baiti` (Mongolian, Manchu, Todo) `unicode-range: U+1800-18AA, U+202F`
 - `Tharlon, sans-serif` (Burmese)
 - `Odor Mean Chey` (Khmer)
+- `UKIJ Ekran` (Uyghur, Kazakh, Kyrgyz - Arabic, Latin, Cyrillic)
 
 ## License
 
