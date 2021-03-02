@@ -14,7 +14,6 @@
 
 @import url(https://fonts.googleapis.com/earlyaccess/notoserifthai.css); /*thai*/
 @import url(https://fonts.googleapis.com/earlyaccess/notoseriflao.css); /*laotian*/
-@import url(https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css); /*default arabic*/
 @import url(https://fonts.googleapis.com/earlyaccess/notosanskannada.css); /*kannada*/
 @import url(https://fonts.googleapis.com/earlyaccess/notosansoriya.css); /*oriya*/
 @import url(https://fonts.googleapis.com/earlyaccess/notosansbengali.css); /*bengali*/
@@ -379,18 +378,21 @@ unicode-range: U+1780-17FF, U+200C, U+25CC, U+0000-00FF, U+0131, U+0152-0153, U+
 }
 @font-face {
 font-family: 'UKIJ Ekran';
-src:local('UKIJ Ekran'), url('UKIJEkran.ttf') format('truetype');
+src: url('UKIJEkran.ttf') format('truetype');
 }
 @font-face {
 font-family: 'Noto Sans Arabic';
-src:local('UKIJ Ekran'), url('NotoSansArabic-Regular.ttf') format('truetype');
+src: url('NotoSansArabic-Regular.ttf') format('truetype');
 }
 @font-face {
 font-family: 'Noto Sans Arabic Medium';
-src:local('UKIJ Ekran'), url('NotoSansArabic-Medium.ttf') format('truetype');
+src: url('NotoSansArabic-Medium.ttf') format('truetype');
 }
 @font-face {
 font-family: 'Noto Nastaliq Urdu';
-src:local('Tharlon'), url('NotoNastaliqUrdu-Regular.woff') format('woff');
+src: url('NotoNastaliqUrdu-Regular.woff') format('woff');
 }
-
+@font-face {
+font-family: 'Droid Arabic Naskh';
+src: url('DroidNaskh-Regular.woff') format('woff');
+}
