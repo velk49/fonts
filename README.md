@@ -34,7 +34,6 @@ an archive of webfonts
 - `Noto Serif Thai, serif` (Thai)
 - `Noto Serif Lao, serif` (Lao)
 - `Droid Arabic Naskh` (Arabic)
-- `Noto Nastaliq Urdu` (Perso-Arabic Nastaliq Urdu)
 - `Noto Sans Kannada, sans-serif` (Kannada)
 - `Noto Sans Oriya, sans-serif` (Oriya)
 - `Noto Sans Bengali, sans-serif` (Bengali)
@@ -80,6 +79,9 @@ an archive of webfonts
 - `Tharlon, sans-serif` (Burmese)
 - `Odor Mean Chey` (Khmer)
 - `UKIJ Ekran` (Uyghur, Kazakh, Kyrgyz - Arabic, Latin, Cyrillic)
+- `Noto Sans Arabic` (Arabic)
+- `Noto Sans Arabic Medium` (Arabic)
+- `Noto Nastaliq Urdu` (Arabic)
 
 ## License
 
