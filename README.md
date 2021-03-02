@@ -33,7 +33,6 @@ an archive of webfonts
 - `Mukta Mahee, sans-serif` (Gurmukhi Punjabi)
 - `Noto Serif Thai, serif` (Thai)
 - `Noto Serif Lao, serif` (Lao)
-- `Droid Arabic Naskh` (Arabic)
 - `Noto Sans Kannada, sans-serif` (Kannada)
 - `Noto Sans Oriya, sans-serif` (Oriya)
 - `Noto Sans Bengali, sans-serif` (Bengali)
@@ -82,6 +81,7 @@ an archive of webfonts
 - `Noto Sans Arabic` (Arabic)
 - `Noto Sans Arabic Medium` (Arabic)
 - `Noto Nastaliq Urdu` (Arabic)
+- `Droid Arabic Naskh` (Arabic)
 
 ## License
 
