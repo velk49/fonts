@@ -424,3 +424,7 @@ src: url('DroidNaskh-Regular.woff') format('woff');
     font-weight: 500;
 }
 
+@font-face {
+    font-family: 'Noto Serif Sinhala R';
+    src: url('NotoSerifSinhala-Regular.ttf');
+}
