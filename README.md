@@ -82,6 +82,9 @@ an archive of webfonts
 - `Noto Sans Arabic Medium` (Arabic)
 - `Noto Nastaliq Urdu` (Arabic)
 - `Droid Arabic Naskh` (Arabic)
+- `Noto Sans Sinhala` (Sinhala)
+- `Noto Sans Sinhala Medium` (Sinhala)
+- `Noto Serif Sinhala` (Sinhala)
 
 ## License
 
