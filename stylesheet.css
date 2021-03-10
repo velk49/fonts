@@ -405,3 +405,22 @@ src: url('DroidNaskh-Regular.woff') format('woff');
   src: url(TimesNewRoman.ttf) format('truetype');
   unicode-range: U+0000-058F;
 }
+
+@font-face {
+    font-family: 'Noto Serif Sinhala';
+    src: url('NotoSerifSinhala-Medium.woff') format('woff');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Noto Sans Sinhala';
+    src: url('NotoSansSinhala-Regular.woff') format('woff');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans Sinhala Medium';
+    src: url('NotoSansSinhala-Medium.woff') format('woff');
+    font-weight: 500;
+}
+
