@@ -434,6 +434,16 @@ src: url('DroidNaskh-Regular.woff') format('woff');
 }
 
 @font-face {
+    font-family: 'ArTarumianHeghnar Regular Italic';
+    src: url('ArTarumianHeghnar-Regular-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'Hianali';
+    src: url('Hianali.ttf');
+}
+
+@font-face {
     font-family: 'Noto Serif Armenian';
     src: url('NotoSerifArmenian-Regular.ttf');
 }
