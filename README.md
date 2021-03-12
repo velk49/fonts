@@ -88,6 +88,8 @@ an archive of webfonts
 - `Noto Sans Hanifi Rohingya` (Hanifi Rohingya)
 - `Noto Sans Armenian` (Armenian)
 - `Noto Serif Armenian` (Armenian)
+- `ArTarumianHeghnar Regular Italic` (Armenian)  
+- `Hianali` (Armenian)
 
 ## License
 
