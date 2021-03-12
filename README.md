@@ -56,7 +56,7 @@ an archive of webfonts
 - `BhashitaComplex` (Sinhala)
 - `BhashitaComplexSans` (Sinhala)
 - `Roboto Mono` (Latin)
-- `Consolas` (Latin, Greek, Cyrillic, Armenian)
+- `Consolas` (Latin, Greek, Cyrillic)
 - `Noto Sans Mono` (Latin, Greek, Cyrillic)
   - monospace - `Consolas, Noto Sans Mono`
 - `Menksoft Todo_Hara` (Mongolian Todo) ?
