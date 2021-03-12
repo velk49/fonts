@@ -85,6 +85,7 @@ an archive of webfonts
 - `Noto Sans Sinhala` (Sinhala)
 - `Noto Sans Sinhala Medium` (Sinhala)
 - `Noto Serif Sinhala` (Sinhala)
+- `Noto Sans Hanifi Rohingya` (Hanifi Rohingya)
 
 ## License
 
