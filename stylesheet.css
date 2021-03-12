@@ -422,3 +422,8 @@ src: url('DroidNaskh-Regular.woff') format('woff');
     font-family: 'Noto Serif Sinhala';
     src: url('NotoSerifSinhala-Regular.ttf');
 }
+
+@font-face {
+    font-family: 'Noto Sans Hanifi Rohingya';
+    src: url('NotoSansHanifiRohingya-Regular.ttf');
+}
