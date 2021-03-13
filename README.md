@@ -90,6 +90,8 @@ an archive of webfonts
 - `Noto Serif Armenian` (Armenian)
 - `ArTarumianHeghnar Regular Italic` (Armenian)  
 - `Hianali` (Armenian)
+- `Noto Sans Tamil` (Tamil)
+- `Noto Serif Tamil` (Tamil)
 
 ## License
 
