@@ -447,3 +447,13 @@ src: url('DroidNaskh-Regular.woff') format('woff');
     font-family: 'Noto Serif Armenian';
     src: url('NotoSerifArmenian-Regular.ttf');
 }
+
+@font-face {
+    font-family: 'Noto Sans Tamil';
+    src: url('NotoSansTamil-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Noto Serif Tamil';
+    src: url('NotoSerifTamil-Regular.ttf');
+}
