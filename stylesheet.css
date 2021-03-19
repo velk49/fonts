@@ -495,3 +495,27 @@ src: url('DroidNaskh-Regular.woff') format('woff');
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Noto Serif Devanagari';
+    src: url('NotoSerifDevanagari.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif Devanagari Bold';
+    src: url('NotoSerifDevanagari-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Devanagari';
+    src: url('NotoSansDevanagari-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
