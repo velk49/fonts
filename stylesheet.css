@@ -462,3 +462,36 @@ src: url('DroidNaskh-Regular.woff') format('woff');
     font-family: 'Manchu Bold';
     src: url('ManchuBold.ttf');
 }
+
+@font-face {
+    font-family: 'Gveret Levin AlefAlefAlef';
+    src: url('GveretLevinAlefAlefAlef-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yiddishkeit AlefAlefAlef';
+    src: url('YiddishkeitAlefAlefAlef-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Hebrew';
+    src: url('NotoSansHebrew-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif Hebrew';
+    src: url('NotoSerifHebrew-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
