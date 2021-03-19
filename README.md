@@ -92,6 +92,8 @@ an archive of webfonts
 - `Hianali` (Armenian)
 - `Noto Sans Tamil` (Tamil)
 - `Noto Serif Tamil` (Tamil)
+- `Manchu`
+- `Manchu Bold`
 
 ## License
 
