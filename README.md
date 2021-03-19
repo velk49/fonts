@@ -80,24 +80,24 @@ an archive of webfonts
 - `UKIJ Ekran` (Uyghur, Kazakh, Kyrgyz - Arabic, Latin, Cyrillic)
 - `Noto Sans Arabic` (Arabic)
 - `Noto Sans Arabic Medium` (Arabic)
-- `Noto Nastaliq Urdu` (Arabic)
+- `Noto Nastaliq Urdu` (Arabic Nastaliq)
 - `Droid Arabic Naskh` (Arabic)
-- `Noto Sans Sinhala` (Sinhala)
-- `Noto Sans Sinhala Medium` (Sinhala)
-- `Noto Serif Sinhala` (Sinhala)
+- `Noto Sans Sinhala`
+- `Noto Sans Sinhala Medium`
+- `Noto Serif Sinhala`
 - `Noto Sans Hanifi Rohingya` (Hanifi Rohingya)
 - `Noto Sans Armenian` (Armenian)
 - `Noto Serif Armenian` (Armenian)
 - `ArTarumianHeghnar Regular Italic` (Armenian)  
 - `Hianali` (Armenian)
-- `Noto Sans Tamil` (Tamil)
-- `Noto Serif Tamil` (Tamil)
+- `Noto Sans Tamil`
+- `Noto Serif Tamil`
 - `Manchu`
 - `Manchu Bold`
 - `Gveret Levin AlefAlefAlef` (Hebrew)
 - `Yiddishkeit AlefAlefAlef` (Hebrew)
-- `Noto Sans Hebrew` (Hebrew)
-- `Noto Serif Hebrew` (Hebrew)
+- `Noto Sans Hebrew`
+- `Noto Serif Hebrew`
 - `Noto Serif Devanagari`
 - `Noto Serif Devanagari Bold`
 - `Noto Sans Devanagari`
