@@ -94,7 +94,10 @@ an archive of webfonts
 - `Noto Serif Tamil` (Tamil)
 - `Manchu`
 - `Manchu Bold`
-
+- `Gveret Levin AlefAlefAlef` (Hebrew)
+- `Yiddishkeit AlefAlefAlef` (Hebrew)
+- `Noto Sans Hebrew` (Hebrew)
+- `Noto Serif Hebrew` (Hebrew)
 ## License
 
 MIT
