@@ -452,3 +452,13 @@ src: url('DroidNaskh-Regular.woff') format('woff');
     font-family: 'Noto Serif Tamil';
     src: url('NotoSerifTamil-Regular.ttf');
 }
+
+@font-face {
+    font-family: 'Manchu';
+    src: url('Manchu.ttf');
+}
+
+@font-face {
+    font-family: 'Manchu Bold';
+    src: url('ManchuBold.ttf');
+}
