@@ -98,6 +98,9 @@ an archive of webfonts
 - `Yiddishkeit AlefAlefAlef` (Hebrew)
 - `Noto Sans Hebrew` (Hebrew)
 - `Noto Serif Hebrew` (Hebrew)
+- `Noto Serif Devanagari`
+- `Noto Serif Devanagari Bold`
+- `Noto Sans Devanagari`
 ## License
 
 MIT
