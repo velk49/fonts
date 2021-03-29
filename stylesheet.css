@@ -523,3 +523,8 @@ src: url('DroidNaskh-Regular.woff') format('woff');
     font-family: 'I Ming';
     src: url('I.Ming-7.01.ttf');
 }
+
+@font-face {
+    font-family: 'Noto Serif Khmer';
+    src: url('NotoSerifKhmer-Regular.ttf');
+}
