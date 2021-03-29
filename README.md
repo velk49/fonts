@@ -101,7 +101,7 @@ an archive of webfonts
 - `Noto Serif Devanagari`
 - `Noto Serif Devanagari Bold`
 - `Noto Sans Devanagari`
-- `I.Ming` (Chinese)
+- `I Ming` (Chinese)
 
 ## License
 
