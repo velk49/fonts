@@ -103,6 +103,7 @@ an archive of webfonts
 - `Noto Sans Devanagari`
 - `I Ming` (Chinese)
 - `Noto Serif Khmer`
+- `Fasthand` (Khmer)
 
 ## License
 
