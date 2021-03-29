@@ -102,6 +102,7 @@ an archive of webfonts
 - `Noto Serif Devanagari Bold`
 - `Noto Sans Devanagari`
 - `I Ming` (Chinese)
+- `Noto Serif Khmer`
 
 ## License
 
