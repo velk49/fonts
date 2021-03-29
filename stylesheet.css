@@ -519,3 +519,7 @@ src: url('DroidNaskh-Regular.woff') format('woff');
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'I.Ming';
+    src: url('I.Ming-7.01.ttf');
+}
