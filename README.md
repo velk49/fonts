@@ -104,6 +104,7 @@ an archive of webfonts
 - `I Ming` (Chinese)
 - `Noto Serif Khmer`
 - `Fasthand` (Khmer)
+- `Braille` (Latin to braille)
 
 ## License
 
