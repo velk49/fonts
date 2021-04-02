@@ -105,6 +105,7 @@ an archive of webfonts
 - `Noto Serif Khmer`
 - `Fasthand` (Khmer)
 - `Braille` (Latin to braille)
+- `Noto Color Emoji`
 
 ## License
 
