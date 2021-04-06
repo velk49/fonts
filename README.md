@@ -14,6 +14,8 @@ an archive of webfonts
 
 [../uyghur-arabic-script-fonts/](../fonts-for-uyghur-arabic-script/)
 
+[Yalasoo-Qomolangma-Tibetan-fonts](Yalasoo-Qomolangma-Tibetan-fonts)
+
 ## list
 
 ### google fonts
