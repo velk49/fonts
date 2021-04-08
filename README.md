@@ -38,6 +38,11 @@ an archive of webfonts
 - `Noto Sans Kannada` (Kannada)
 - `Noto Sans Oriya` (Oriya)
 - `Noto Sans Bengali` (Bengali)
+- `Moul` (Khmer)
+- `Koulen` (Khmer)
+- `Dangrek` (Khmer)
+- `Hanuman` (Khmer)
+- `Bayon` (Khmer)
 
 ### storage webfonts
 
