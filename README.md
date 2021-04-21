@@ -115,6 +115,7 @@ an archive of webfonts
 - `Noto Color Emoji`
 - `XM_Zhenghei` (Manchu)
 - `Batangche` (Korean)
+- `Gungsuhche` (Korean)
 
 ## License
 
