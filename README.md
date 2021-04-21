@@ -116,6 +116,7 @@ an archive of webfonts
 - `XM_Zhenghei` (Manchu)
 - `Batangche` (Korean)
 - `Gungsuhche` (Korean)
+- `Kolombo No2` 
 
 ## License
 
