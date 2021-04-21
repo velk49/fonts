@@ -113,6 +113,7 @@ an archive of webfonts
 - `Fasthand` (Khmer)
 - `Braille` (Latin to braille)
 - `Noto Color Emoji`
+- `XM_Zhenghei` (Manchu)
 
 ## License
 
