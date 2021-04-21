@@ -114,6 +114,7 @@ an archive of webfonts
 - `Braille` (Latin to braille)
 - `Noto Color Emoji`
 - `XM_Zhenghei` (Manchu)
+- `Batangche` (Korean)
 
 ## License
 
