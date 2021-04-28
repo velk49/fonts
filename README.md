@@ -12,7 +12,7 @@ an archive of webfonts
 
 [../manchu-fonts/](../manchu-fonts/)
 
-[../uyghur-arabic-script-fonts/](../fonts-for-uyghur-arabic-script/)
+[../uyghur-arabic-script-fonts/](../uyghur-arabic-script-fonts/)
 
 [Yalasoo-Qomolangma-Tibetan-fonts](Yalasoo-Qomolangma-Tibetan-fonts)
 
