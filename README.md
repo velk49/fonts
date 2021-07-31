@@ -118,6 +118,7 @@ an archive of webfonts
 - `Gungsuhche` (Korean)
 - `Kolombo No2` (Latin)
 - `Pyidaungsu` (Burmese)
+- `Zawgyi` (Burmese)
 
 ## License
 
