@@ -574,3 +574,11 @@ unicode-range: U+1780-17FF, U+200C, U+25CC, U+0000-00FF, U+0131, U+0152-0153, U+
     font-family: 'Zawgyi';
     src: url('Zawgyi-One-20051130.ttf');
 }
+@font-face {
+    font-family: 'NotoSansKayahLi';
+    src: url('NotoSansKayahLi-Regular.ttf');
+}
+@font-face {
+    font-family: 'Karenni-Regular';
+    src: url('Karenni-Regular.ttf');
+}
