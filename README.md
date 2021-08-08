@@ -119,6 +119,8 @@ an archive of webfonts
 - `Kolombo No2` (Latin)
 - `Pyidaungsu` (Burmese)
 - `Zawgyi` (Burmese)
+- `NotoSansKayahLi` (Karen/karenni/Kayah Li)
+- `Karenni-Regular` (Karen/karenni/Kayah Li)
 
 ## License
 
