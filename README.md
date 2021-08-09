@@ -117,10 +117,11 @@ an archive of webfonts
 - `Batangche` (Korean)
 - `Gungsuhche` (Korean)
 - `Kolombo No2` (Latin)
-- `Pyidaungsu` (Burmese)
-- `Zawgyi` (Burmese)
+- `Pyidaungsu` (Myanmar)
+- `Zawgyi` (Myanmar)
 - `NotoSansKayahLi` (Karen/karenni/Kayah Li)
 - `Karenni-Regular` (Karen/karenni/Kayah Li)
+- `GreatHorKham Yangon` (Myanmar)
 
 ## License
 
