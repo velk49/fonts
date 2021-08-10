@@ -122,6 +122,7 @@ an archive of webfonts
 - `NotoSansKayahLi` (Karen/karenni/Kayah Li)
 - `Karenni-Regular` (Karen/karenni/Kayah Li)
 - `GreatHorKham Yangon` (Myanmar)
+- `Veleka` (Latin, Cyrillic)
 
 ## License
 
