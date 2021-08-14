@@ -125,6 +125,7 @@ an archive of webfonts
 - `Veleka` (Latin, Cyrillic)
 - `Kawkab Mono` (Arabic monospace)
 - `Kawkab Mono Bold` (Arabic monospace)
+- `Noto Serif Myanmar`
 
 ## License
 
