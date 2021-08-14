@@ -126,6 +126,7 @@ an archive of webfonts
 - `Kawkab Mono` (Arabic monospace)
 - `Kawkab Mono Bold` (Arabic monospace)
 - `Noto Serif Myanmar`
+- `Courier New`
 
 ## License
 
