@@ -124,6 +124,7 @@ an archive of webfonts
 - `GreatHorKham Yangon` (Myanmar)
 - `Veleka` (Latin, Cyrillic)
 - `Kawkab Mono` (Arabic monospace)
+- `Kawkab Mono Bold` (Arabic monospace)
 
 ## License
 
