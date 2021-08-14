@@ -123,6 +123,7 @@ an archive of webfonts
 - `Karenni-Regular` (Karen/karenni/Kayah Li)
 - `GreatHorKham Yangon` (Myanmar)
 - `Veleka` (Latin, Cyrillic)
+- `Kawkab Mono` (Arabic monospace)
 
 ## License
 
