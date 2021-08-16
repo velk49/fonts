@@ -70,8 +70,6 @@ an archive of webfonts
 - `Menksoft Todo_Garqag` (Mongolian Todo) ?
 - `Menksoft Todo_Biqimel` (Mongolian Todo) ?
 - `Menksoft Todo_Qagan` (Mongolian Todo) ?
-- `MenksoftHuiHu One` (Mongolian Uyghur) ?
-- `MenksoftHuiHu Two` (Mongolian Uyghur) ?
 - `Khitan Small Linear` (Khitan small)
 - `BabelStone Khitan Small Linear` (Khitan small)
 - `Khitan Small Vertical` (Khitan small)
