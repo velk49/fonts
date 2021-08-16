@@ -126,6 +126,7 @@ an archive of webfonts
 - `Kawkab Mono Bold` (Arabic monospace)
 - `Noto Serif Myanmar`
 - `Courier New`
+- `AGT Pashto Nastaliq`
 
 ## License
 
