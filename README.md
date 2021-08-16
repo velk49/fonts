@@ -118,8 +118,8 @@ an archive of webfonts
 - `Kolombo No2` (Latin)
 - `Pyidaungsu` (Myanmar)
 - `Zawgyi` (Myanmar)
-- `NotoSansKayahLi` (Karen/karenni/Kayah Li)
-- `Karenni-Regular` (Karen/karenni/Kayah Li)
+- `NotoSansKayahLi` (Karen/Karenni/Kayah Li)
+- `Karenni-Regular` (Karen/Karenni/Kayah Li)
 - `GreatHorKham Yangon` (Myanmar)
 - `Veleka` (Latin, Bulgarian Cyrillic)
 - `Kawkab Mono` (Arabic monospace)
@@ -127,6 +127,8 @@ an archive of webfonts
 - `Noto Serif Myanmar`
 - `Courier New` (Latin, Cyrillic, Greek, Armenian, Arabic monospace)
 - `AGT Pashto Nastaliq` (Arabic)
+- `MehrNastaliq`
+- `Shakstah` (Arabic Nastaliq)
 
 ## License
 
