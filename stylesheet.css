@@ -638,3 +638,15 @@ unicode-range: U+1780-17FF, U+200C, U+25CC, U+0000-00FF, U+0131, U+0152-0153, U+
     font-family: 'Amiri Quran';
     src: url('amiri-quran.ttf');
 }
+@font-face {
+    font-family: 'Bismillah';
+    src: url('bismillah.ttf');
+}
+@font-face {
+    font-family: 'Nafees Nastaleeq Webfont';
+    src: url('nafees-nastaleeq-webfont.ttf');
+}
+@font-face {
+    font-family: 'Quran Common';
+    src: url('quran_common.ttf');
+}
