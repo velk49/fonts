@@ -638,3 +638,7 @@ unicode-range: U+1780-17FF, U+200C, U+25CC, U+0000-00FF, U+0131, U+0152-0153, U+
     font-family: 'Amiri Quran';
     src: url('amiri-quran.ttf');
 }
+@font-face {
+    font-family: 'Mcs Swer Al Quran';
+    src: url('Mcs Swer Al Quran.ttf');
+}
