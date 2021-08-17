@@ -129,6 +129,7 @@ an archive of webfonts
 - `AGT Pashto Nastaliq` (Arabic, Pashto, Persian, Urdu)
 - `MehrNastaliq`
 - `Shakstah` (Arabic Nastaliq)
+- `BBC Reith Qalam` (Arabic)
 
 ## License
 
