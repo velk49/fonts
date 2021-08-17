@@ -134,8 +134,9 @@ an archive of webfonts
 - `AlQalamQuran` (Quranic Arabic)
 - `FontQuran` (Quranic Arabic)
 - `PDMS_Saleem_QuranFont` (Quranic Arabic)
-- `ScheherazadeRegOT` (Quranic Arabic)
+- `ScheherazadeRegOT` (Quranic Arabic plus)
 - `Al Qalam Quran Majeed` (Quranic Arabic)
+- `Amiri Quran` (Quranic Arabic)
 
 ## License
 
