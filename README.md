@@ -137,6 +137,7 @@ an archive of webfonts
 - `ScheherazadeRegOT` (Quranic Arabic plus)
 - `Al Qalam Quran Majeed` (Quranic Arabic)
 - `Amiri Quran` (Quranic Arabic)
+- `UthmanicHafs` (Quranic Arabic)
 
 ## License
 
