@@ -130,7 +130,7 @@ an archive of webfonts
 - `MehrNastaliq`
 - `Shakstah` (Arabic Nastaliq)
 - `BBC Reith Qalam` (Arabic)
-- `SegoeUI` (Latin, Cyrillic, Greek, Hebrew, Arabic, Thai)
+- `SegoeUI` (Latin, Cyrillic, Greek, Armenian, Hebrew, Arabic)
 
 ## License
 
