@@ -127,10 +127,15 @@ an archive of webfonts
 - `Noto Serif Myanmar`
 - `Courier New` (Latin, Cyrillic, Greek, Armenian, Arabic monospace)
 - `AGT Pashto Nastaliq` (Arabic, Pashto, Persian, Urdu)
-- `MehrNastaliq`
+- `MehrNastaliq` (Arabic Nastaliq)
 - `Shakstah` (Arabic Nastaliq)
 - `BBC Reith Qalam` (Arabic)
 - `SegoeUI` (Latin, Cyrillic, Greek, Armenian, Hebrew, Arabic)
+- `AlQalamQuran` (Quranic Arabic)
+- `FontQuran` (Quranic Arabic)
+- `PDMS_Saleem_QuranFont` (Quranic Arabic)
+- `ScheherazadeRegOT` (Quranic Arabic)
+- `Al Qalam Quran Majeed` (Quranic Arabic)
 
 ## License
 
