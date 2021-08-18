@@ -138,6 +138,7 @@ an archive of webfonts
 - `Al Qalam Quran Majeed` (Quranic Arabic)
 - `Amiri Quran` (Quranic Arabic)
 - `UthmanicHafs` (Quranic Arabic)
+- `Microsoft YaHei` (Chinese, Japanese)
 
 ## License
 
