@@ -139,6 +139,9 @@ an archive of webfonts
 - `Amiri Quran` (Quranic Arabic)
 - `UthmanicHafs` (Quranic Arabic)
 - `Microsoft YaHei` (Chinese, Japanese)
+- `Far_DastNevis` (Arabic)
+- `Titr Bold` (Arabic)
+- `Mj_Nabigha` (Arabic)
 
 ## License
 
