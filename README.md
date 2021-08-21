@@ -142,6 +142,14 @@ an archive of webfonts
 - `Far_DastNevis` (Arabic)
 - `Titr Bold` (Arabic)
 - `Mj_Nabigha` (Arabic)
+- `Ethiopia Jiret` (Ethiopic, Amharic)
+- `Ethiopic Hiwua`
+- `Ethiopic WashRa Bold`
+- `Ethiopic WashRa SemiBold`
+- `Ethiopic Yebse`
+- `Ethiopic Zelan`
+- `Ethiopic Tint`
+- `Ethiopic Wookianos`
 
 ## License
 
