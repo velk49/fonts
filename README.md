@@ -150,6 +150,8 @@ an archive of webfonts
 - `Ethiopic Zelan`
 - `Ethiopic Tint`
 - `Ethiopic Wookianos`
+- `NotoSansEthiopic`
+- `NotoSansEthiopic SemiBold`
 
 ## License
 
