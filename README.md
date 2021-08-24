@@ -152,6 +152,7 @@ an archive of webfonts
 - `Ethiopic Wookianos`
 - `NotoSansEthiopic`
 - `NotoSansEthiopic SemiBold`
+- `Mehr Nastaleeq` (Arabic Nastaliq)
 
 ## License
 
