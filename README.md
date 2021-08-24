@@ -127,7 +127,6 @@ an archive of webfonts
 - `Noto Serif Myanmar`
 - `Courier New` (Latin, Cyrillic, Greek, Armenian, Arabic monospace)
 - `AGT Pashto Nastaliq` (Arabic, Pashto, Persian, Urdu)
-- `MehrNastaliq` (Arabic Nastaliq)
 - `Shakstah` (Arabic Nastaliq)
 - `BBC Reith Qalam` (Arabic)
 - `SegoeUI` (Latin, Cyrillic, Greek, Armenian, Hebrew, Arabic)
