@@ -55,7 +55,7 @@ an archive of webfonts
 - `Yagpo Tibetan Uni` (Tibetan)
 - `Noto Serif Georgian` (Georgian)
 - `Amarawathi-UPB` (Sinhala)
-- `Noto Sans Soyombo` (Soyombo)
+- `Noto Sans Soyombo`
 - `Noto Sans Brahmi` (Brahmi)
 - `ArmBoloragir` (Armenian)
 - `Nom Na Tong Light` (Vietnamese Chữ Nôm)
@@ -152,6 +152,7 @@ an archive of webfonts
 - `NotoSansEthiopic`
 - `NotoSansEthiopic SemiBold`
 - `Mehr Nastaleeq` (Arabic Nastaliq)
+- `JG Soyombo`
 
 ## License
 
