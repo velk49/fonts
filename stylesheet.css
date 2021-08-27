@@ -386,7 +386,6 @@ src: url('DroidNaskh-Regular.woff') format('woff');
 @font-face {
   font-family: 'Times New Roman';
   src: url(TimesNewRoman.woff) format('woff');
-  unicode-range: U+0000-058F;
 }
 
 @font-face {
