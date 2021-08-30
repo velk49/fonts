@@ -78,8 +78,8 @@ an archive of webfonts
 - `ALKATIP Basma Tom` (Arabic script for Uyghur, Kazakh, Kyrgyz)
 - `Noto Sans Kaithi` (Kaithi)
 - `KaiTi` (Chinese)
-- `UKIJ Diwani Kawak` (Uyghur, Kazakh, Kyrgyz - Arabic, Latin)
-- `UKIJ Tuz Basma Bol` (Uyghur, Kazakh, Kyrgyz - Arabic, Latin, Cyrillic)
+- `UKIJ Diwani Kawak` (Uyghur, Kyrgyz - Arabic, Latin)
+- `UKIJ Tuz Basma Bold` (Uyghur, Kazakh, Kyrgyz - Arabic, Latin, Cyrillic)
 - `Mongolian Baiti` (Mongolian, Manchu, Todo) `unicode-range: U+1800-18AA, U+202F`
 - `Tharlon, sans-serif` (Burmese)
 - `Odor Mean Chey` (Khmer)
@@ -153,7 +153,7 @@ an archive of webfonts
 - `NotoSansEthiopic SemiBold`
 - `Mehr Nastaleeq` (Arabic Nastaliq)
 - `JG Soyombo`
-- `KazNet` (Arabic Uyghur, Kazakh)
+- `KazNet` (Arabic **Kazakh**, Uyghur)
 
 ## License
 
