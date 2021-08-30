@@ -153,6 +153,7 @@ an archive of webfonts
 - `NotoSansEthiopic SemiBold`
 - `Mehr Nastaleeq` (Arabic Nastaliq)
 - `JG Soyombo`
+- `KazNet` (Arabic Uyghur, Kazakh)
 
 ## License
 
