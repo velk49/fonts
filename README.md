@@ -32,7 +32,6 @@ an archive of webfonts
 - `Peddana` (Telugu)
 - `Gayathri` (Malayalam)
 - `Rasa` (Gujarati)
-- `Mukta Mahee` (Gurmukhi Punjabi)
 - `Noto Serif Thai` (Thai)
 - `Noto Serif Lao` (Lao)
 - `Noto Sans Kannada` (Kannada)
@@ -157,6 +156,7 @@ an archive of webfonts
 - `Tahoma` (Latin, Cyrillic, Greek, Armenian, Hebrew, Arabic, Thai)
 - `AmrLipi Regular` (Gurmukhi Punjabi)
 - `Bulara Regular` (Gurmukhi Punjabi)
+- `Mukta Mahee` (Gurmukhi Punjabi)
 
 ## License
 
