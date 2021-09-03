@@ -155,6 +155,8 @@ an archive of webfonts
 - `JG Soyombo`
 - `KazNet` (Arabic **Kazakh**, Uyghur)
 - `Tahoma` (Latin, Cyrillic, Greek, Armenian, Hebrew, Arabic, Thai)
+- `AmrLipi Regular` (Gurmukhi Punjabi)
+- `Bulara Regular` (Gurmukhi Punjabi)
 
 ## License
 
