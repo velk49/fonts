@@ -158,6 +158,7 @@ a **personal** archive of webfonts
 - `Bulara Regular` (Gurmukhi Punjabi)
 - `Mukta Mahee` (Gurmukhi Punjabi)
 - `Roz Urdu Punjabi Nastaleeq` (Arabic Nastaliq, Urdu, Punjabi)
+- `Calibri` (Latin, Cyrillic, Greek, Armenian, Hebrew, Arabic)
 
 
 ## Please leave a note on *issues* for any copyright claim.
