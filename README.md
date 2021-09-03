@@ -154,6 +154,7 @@ an archive of webfonts
 - `Mehr Nastaleeq` (Arabic Nastaliq)
 - `JG Soyombo`
 - `KazNet` (Arabic **Kazakh**, Uyghur)
+- `Tahoma` (Latin, Cyrillic, Greek, Armenian, Hebrew, Arabic, Thai)
 
 ## License
 
