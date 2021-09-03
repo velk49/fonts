@@ -1,6 +1,6 @@
 # fonts
 
-an archive of webfonts
+a **personal** archive of webfonts
 
 `@import url(https://victorlee.github.io/fonts/stylesheet.css);`
 
