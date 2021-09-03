@@ -157,10 +157,7 @@ a **personal** archive of webfonts
 - `AmrLipi Regular` (Gurmukhi Punjabi)
 - `Bulara Regular` (Gurmukhi Punjabi)
 - `Mukta Mahee` (Gurmukhi Punjabi)
-
-## License
-
-MIT
+- `Roz Urdu Punjabi Nastaleeq` (Arabic Nastaliq, Urdu, Punjabi)
 
 
 ## Please leave a note on *issues* for any copyright claim.
