@@ -160,6 +160,9 @@ a **personal** archive of webfonts
 - `Roz Urdu Punjabi Nastaleeq` (Arabic Nastaliq, Urdu, Punjabi)
 - `Calibri` (Latin, Cyrillic, Greek, Armenian, Hebrew, Arabic)
 - `Motek` (Hebrew)
+- `Koodak` (Arabic, Persian)
+- `Nazli` (Arabic, Persian)
+- `Nazli Bold` (Arabic, Persian)
 
 
 ## Please leave a note on *issues* for any copyright claim.
