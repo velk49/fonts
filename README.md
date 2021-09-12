@@ -159,6 +159,7 @@ a **personal** archive of webfonts
 - `Mukta Mahee` (Gurmukhi Punjabi)
 - `Roz Urdu Punjabi Nastaleeq` (Arabic Nastaliq, Urdu, Punjabi)
 - `Calibri` (Latin, Cyrillic, Greek, Armenian, Hebrew, Arabic)
+- `Motek` (Hebrew)
 
 
 ## Please leave a note on *issues* for any copyright claim.
