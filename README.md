@@ -163,6 +163,7 @@ a **personal** archive of webfonts
 - `Koodak` (Arabic, Persian)
 - `Nazli` (Arabic, Persian)
 - `Nazli Bold` (Arabic, Persian)
+- `OpenBaybayin` (Baybayin)
 
 
 ## Please leave a note on *issues* for any copyright claim.
