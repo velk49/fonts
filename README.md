@@ -164,6 +164,7 @@ a **personal** archive of webfonts
 - `Nazli` (Arabic, Persian)
 - `Nazli Bold` (Arabic, Persian)
 - `OpenBaybayin` (Baybayin)
+- `Kulitan Handwriting` (Kulitan)
 
 
 ## Please leave a note on *issues* for any copyright claim.
