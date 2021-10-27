@@ -165,6 +165,10 @@ a **personal** archive of webfonts
 - `Nazli Bold` (Arabic, Persian)
 - `OpenBaybayin` (Baybayin)
 - `Kulitan Handwriting` (Kulitan - alphabet typing)
+- `Upjohn Rough`
+- `Black Night`
+- `Savath Regular`
+- `Trick or Bite`
 
 
 ## Please leave a note on *issues* for any copyright claim.
