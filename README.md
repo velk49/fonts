@@ -169,6 +169,7 @@ a **personal** archive of webfonts
 - `Black Night`
 - `Savath Regular`
 - `Trick or Bite`
+- `Northwell`
 
 
 ## Please leave a note on *issues* for any copyright claim.
