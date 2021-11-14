@@ -173,4 +173,4 @@ a **personal** archive of webfonts
 - `AR Archy` (Georgian)
 - `BPG Arial` (Georgian)
 
-## Please leave a note on *issues* for any copyright claim.
+## Please leave a note on *issues* for any copyright claims.
