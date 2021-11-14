@@ -172,5 +172,10 @@ a **personal** archive of webfonts
 - `Northwell`
 - `AR Archy` (Georgian)
 - `BPG Arial` (Georgian)
+- `BPG Nino Mtavruli` (Georgian)
+- `BPG Nino Mtavruli Bold` (Georgian)
+- `ALK Sanet` (Georgian)
+- `Arial GEO` (Georgian)
+- `Sylfaen` (Georgian)
 
 ## Please leave a note on *issues* for any copyright claims.
