@@ -790,3 +790,16 @@ unicode-range: U+1780-17FF, U+200C, U+25CC, U+0000-00FF, U+0131, U+0152-0153, U+
     font-family: 'Northwell';
     src: url('Northwell.woff');
 }
+@font-face {
+    font-family: 'AR Archy';
+    src: url('ARArchyRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BPG Arial';
+    src: url('BPGArial.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
