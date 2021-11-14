@@ -170,6 +170,7 @@ a **personal** archive of webfonts
 - `Savath Regular`
 - `Trick or Bite`
 - `Northwell`
-
+- `AR Archy` (Georgian)
+- `BPG Arial` (Georgian)
 
 ## Please leave a note on *issues* for any copyright claim.
