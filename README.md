@@ -177,5 +177,7 @@ a **personal** archive of webfonts
 - `ALK Sanet` (Georgian)
 - `Arial GEO` (Georgian)
 - `Sylfaen` (Georgian)
+- `Free Mono Georgian` (Georgian)
+- `Noto Sans Georgian` (Georgian)
 
 ## Please leave a note on *issues* for any copyright claims.
