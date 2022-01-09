@@ -179,5 +179,6 @@ a **personal** archive of webfonts
 - `Sylfaen` (Georgian)
 - `Free Mono Georgian` (Georgian)
 - `Noto Sans Georgian` (Georgian)
+- `Lao Pali New` (Lao)
 
 ## Please leave a note on *issues* for any copyright claims.
