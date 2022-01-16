@@ -180,5 +180,6 @@ a **personal** archive of webfonts
 - `Free Mono Georgian` (Georgian)
 - `Noto Sans Georgian` (Georgian)
 - `Lao Pali New` (Lao)
+- `Free Mono Tengwar` (Tengwar)
 
 ## Please leave a note on *issues* for any copyright claims.
