@@ -183,5 +183,6 @@ a **personal** archive of webfonts
 - `Free Mono Tengwar` (Tengwar)
 - `Tengwar Annatar` (Tengwar)
 - `Tengwar Annatar Italic` (Tengwar)
+- `Vazir` (Arabic)
 
 ## Please leave a note on *issues* for any copyright claims.
