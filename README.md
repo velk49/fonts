@@ -184,5 +184,6 @@ a **personal** archive of webfonts
 - `Tengwar Annatar` (Tengwar)
 - `Tengwar Annatar Italic` (Tengwar)
 - `Vazir` (Arabic)
+- `DDC Joyig` (Tibetan)
 
 ## Please leave a note on *issues* for any copyright claims.
