@@ -875,3 +875,7 @@ unicode-range: U+1780-17FF, U+200C, U+25CC, U+0000-00FF, U+0131, U+0152-0153, U+
     font-family: 'DDC Joyig';
     src: url('DDC_Joyig.ttf');
 }
+@font-face {
+    font-family: 'Cervo Medium';
+    src: url('Cervo-Medium.otf');
+}
