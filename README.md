@@ -185,5 +185,7 @@ a **personal** archive of webfonts
 - `Tengwar Annatar Italic` (Tengwar)
 - `Vazir` (Arabic)
 - `DDC Joyig` (Tibetan)
+- `Servo medium` (Latin, Cyrillic)
+- `GNU Unicode`
 
 ## Please leave a note on *issues* for any copyright claims.
