@@ -186,6 +186,6 @@ a **personal** archive of webfonts
 - `Vazir` (Arabic)
 - `DDC Joyig` (Tibetan)
 - `Servo medium` (Latin, Cyrillic)
-- `GNU Unicode`
+- `GNU Unifont`
 
 ## Please leave a note on *issues* for any copyright claims.
