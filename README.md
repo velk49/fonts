@@ -187,5 +187,6 @@ a **personal** archive of webfonts
 - `DDC Joyig` (Tibetan)
 - `Servo medium` (Latin, Cyrillic)
 - `GNU Unifont`
+- `Akunar` (Arabic, Persian, Pashto)
 
 ## Please leave a note on *issues* for any copyright claims.
