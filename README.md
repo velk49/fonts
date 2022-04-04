@@ -153,7 +153,7 @@ a **personal** archive of webfonts
 - `Mehr Nastaleeq` (Arabic Nastaliq)
 - `JG Soyombo`
 - `KazNet` (Arabic **Kazakh**, Uyghur)
-- `Tahoma` (Latin, Cyrillic, Greek, Armenian, Hebrew, Arabic, Thai)
+- `Tahoma` (Latin, Cyrillic, Greek, Armenian, Hebrew, Arabic)
 - `AmrLipi Regular` (Gurmukhi Punjabi)
 - `Bulara Regular` (Gurmukhi Punjabi)
 - `Mukta Mahee` (Gurmukhi Punjabi)
