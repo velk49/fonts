@@ -188,5 +188,6 @@ a **personal** archive of webfonts
 - `Servo medium` (Latin, Cyrillic)
 - `GNU Unifont`
 - `Akunar` (Arabic, Persian, Pashto)
+- `Meitei Mayek`
 
 ## Please leave a note on *issues* for any copyright claims.
