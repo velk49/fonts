@@ -889,6 +889,6 @@ unicode-range: U+1780-17FF, U+200C, U+25CC, U+0000-00FF, U+0131, U+0152-0153, U+
     src: url('akunar.ttf');
 }
 @font-face {
-    font-family: 'Meitei Mayek';
-    src: url('EPAOMAYEK.TTF');
+    font-family: 'Noto Sans Meetei Mayek';
+    src: url('NotoSansMeeteiMayek.woff2');
 }
