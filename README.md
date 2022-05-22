@@ -183,7 +183,7 @@ a **personal** archive of webfonts
 - `Free Mono Tengwar` (Tengwar)
 - `Tengwar Annatar` (Tengwar)
 - `Tengwar Annatar Italic` (Tengwar)
-- `Vazir` (Arabic, Persian, Pashto, Urdu)
+- `Vazirmatn` (Arabic, Persian, Pashto, Urdu)
 - `DDC Joyig` (Tibetan)
 - `Servo medium` (Latin, Cyrillic)
 - `GNU Unifont`
