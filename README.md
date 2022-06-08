@@ -189,5 +189,6 @@ a **personal** archive of webfonts
 - `GNU Unifont`
 - `Akunar` (Arabic, Persian, Pashto)
 - `Noto Sans Meetei Mayek` (Meitei, Manipuri)
+- `Twitter Color Emoji`
 
 ## Please leave a note on *issues* for any copyright claims.
