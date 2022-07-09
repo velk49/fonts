@@ -183,13 +183,13 @@ a **personal** archive of webfonts
 - `Free Mono Tengwar` (Tengwar)
 - `Tengwar Annatar` (Tengwar)
 - `Tengwar Annatar Italic` (Tengwar)
-- `Vazirmatn` (Arabic, Persian, Pashto, Urdu)
+- `Vazirmatn` (Arabic, Persian, Pashto, Urdu, Uyghur)
 - `DDC Joyig` (Tibetan)
 - `Servo medium` (Latin, Cyrillic)
 - `GNU Unifont`
 - `Akunar` (Arabic, Persian, Pashto)
 - `Noto Sans Meetei Mayek` (Meitei, Manipuri)
 - `Twitter Color Emoji`
-- `Nassim Arabic`
+- `Athelas Arabic` (Arabic, Persian, Pashto, Urdu, Uyghur)
 
 ## Please leave a note on *issues* for any copyright claims.
