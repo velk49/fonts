@@ -904,3 +904,11 @@ unicode-range: U+1780-17FF, U+200C, U+25CC, U+0000-00FF, U+0131, U+0152-0153, U+
     font-family: 'Athelas Arabic';
     src: url('AthelasArabic-Regular.ttf');
 }
+@font-face {
+    font-family: 'Najazin Regular';
+    src: url('BahijNazanin-Regular.woff2');
+}
+@font-face {
+    font-family: 'Najazin Bold';
+    src: url('BahijNazanin-Bold.woff');
+}
