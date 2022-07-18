@@ -190,6 +190,8 @@ a **personal** archive of webfonts
 - `Akunar` (Arabic, Persian, Pashto)
 - `Noto Sans Meetei Mayek` (Meitei, Manipuri)
 - `Twitter Color Emoji`
-- `Athelas Arabic` (Arabic, Persian, Pashto, Urdu, Uyghur)
+- `Athelas Arabic` (Arabic, Persian, Pashto, Urdu)
+- `Nazanin Regular`
+- `Nazanin Bold`
 
 ## Please leave a note on *issues* for any copyright claims.
