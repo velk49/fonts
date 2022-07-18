@@ -193,5 +193,7 @@ a **personal** archive of webfonts
 - `Athelas Arabic` (Arabic, Persian, Pashto, Urdu)
 - `Nazanin Regular`
 - `Nazanin Bold`
+- `NassimArabic Regular`
+- `NassimArabic Bold`
 
 ## Please leave a note on *issues* for any copyright claims.
