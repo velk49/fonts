@@ -195,5 +195,7 @@ a **personal** archive of webfonts
 - `Nazanin Bold`
 - `NassimArabic Regular`
 - `NassimArabic Bold`
+- `Adobe Arabic Regular`
+- `Adobe Arabic Bold`
 
 ## Please leave a note on *issues* for any copyright claims.
