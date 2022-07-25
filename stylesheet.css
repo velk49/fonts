@@ -895,10 +895,6 @@ src: url('0yb9GDohyKTYn_ZEERkiaE0.woff2') format('woff2');
     src: url('TwitterColorEmoji-SVGinOT.ttf');
 }
 @font-face {
-    font-family: 'Adobe Arabic';
-    src: url('Adobe Arabic Regular.ttf');
-}
-@font-face {
     font-family: 'Athelas Arabic';
     src: url('AthelasArabic-Regular.ttf');
 }
@@ -917,4 +913,12 @@ src: url('0yb9GDohyKTYn_ZEERkiaE0.woff2') format('woff2');
 @font-face {
     font-family: 'NassimArabic Bold';
     src: url('NassimArabic-Bold.woff');
+}
+@font-face {
+    font-family: 'Adobe Arabic Regular';
+    src: url('Adobe Arabic Regular.ttf');
+}
+@font-face {
+    font-family: 'Adobe Arabic Bold';
+    src: url('Adobe Arabic Bold.ttf');
 }
