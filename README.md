@@ -197,5 +197,7 @@ a **personal** archive of webfonts
 - `NassimArabic Bold`
 - `Adobe Arabic Regular`
 - `Adobe Arabic Bold`
+- `XB Kayhan`
+- `XB Kayhan Bold`
 
 ## Please leave a note on *issues* for any copyright claims.
