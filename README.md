@@ -197,7 +197,7 @@ a **personal** archive of webfonts
 - `NassimArabic Bold`
 - `Adobe Arabic Regular`
 - `Adobe Arabic Bold`
-- `XB Kayhan`
-- `XB Kayhan Bold`
+- `XB Kayhan` (Arabic, Persian, Pashto, Urdu, Uyghur)
+- `XB Kayhan Bold` (Arabic, Persian, Pashto, Urdu, Uyghur)
 
 ## Please leave a note on *issues* for any copyright claims.
