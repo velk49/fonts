@@ -922,3 +922,11 @@ src: url('0yb9GDohyKTYn_ZEERkiaE0.woff2') format('woff2');
     font-family: 'Adobe Arabic Bold';
     src: url('Adobe Arabic Bold.ttf');
 }
+@font-face {
+    font-family: 'XB Kayhan';
+    src: url('XBKayhan.ttf');
+}
+@font-face {
+    font-family: 'XB Kayhan Bold';
+    src: url('XBKayhanBold.ttf');
+}
