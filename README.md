@@ -42,6 +42,7 @@ a **personal** archive of webfonts
 - `Dangrek` (Khmer)
 - `Hanuman` (Khmer)
 - `Bayon` (Khmer)
+- `Battambang` (Khmer)
 - `Jomhuria` (Arabic)
 
 ### storage webfonts
