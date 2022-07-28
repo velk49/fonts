@@ -44,6 +44,7 @@ a **personal** archive of webfonts
 - `Bayon` (Khmer)
 - `Battambang` (Khmer)
 - `Jomhuria` (Arabic)
+- `Noto Serif Ethiopic` (Ethiopic)
 
 ### storage webfonts
 
