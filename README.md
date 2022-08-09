@@ -202,5 +202,7 @@ a **personal** archive of webfonts
 - `Adobe Arabic Bold`
 - `XB Kayhan` (Arabic, Persian, Pashto, Urdu, Uyghur)
 - `XB Kayhan Bold` (Arabic, Persian, Pashto, Urdu, Uyghur)
+- `Riwaj` (Arabic)
+- `Scheherazade Bold` (Arabic)
 
 ## Please leave a note on *issues* for any copyright claims.
