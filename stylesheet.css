@@ -933,3 +933,7 @@ src: url('0yb9GDohyKTYn_ZEERkiaE0.woff2') format('woff2');
     font-family: 'XB Kayhan Bold';
     src: url('XBKayhanBold.ttf');
 }
+@font-face {
+    font-family: 'Riwaj';
+    src: url('Riwaj.ttf');
+}
