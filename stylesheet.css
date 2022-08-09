@@ -937,3 +937,7 @@ src: url('0yb9GDohyKTYn_ZEERkiaE0.woff2') format('woff2');
     font-family: 'Riwaj';
     src: url('Riwaj.ttf');
 }
+@font-face {
+    font-family: 'Scheherazade Bold';
+    src: url('Scheherazade-Bold.ttf');
+}
