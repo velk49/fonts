@@ -45,6 +45,8 @@ a **personal** archive of webfonts
 - `Battambang` (Khmer)
 - `Dangrek` (Khmer)
 - `Jomhuria` (Arabic)
+-  `Mizra` (Arabic)
+- `Noto Naskh Arabic` (Arabic)
 - `Noto Serif Ethiopic` (Ethiopic)
 
 ### storage webfonts
