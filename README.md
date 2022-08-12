@@ -43,7 +43,6 @@ a **personal** archive of webfonts
 - `Hanuman` (Khmer)
 - `Bayon` (Khmer)
 - `Battambang` (Khmer)
-- `Dangrek` (Khmer)
 - `Jomhuria` (Arabic)
 -  `Mirza` (Arabic)
 - `Noto Naskh Arabic` (Arabic)
