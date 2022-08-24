@@ -941,3 +941,11 @@ src: url('0yb9GDohyKTYn_ZEERkiaE0.woff2') format('woff2');
     font-family: 'Scheherazade Bold';
     src: url('Scheherazade-Bold.ttf');
 }
+@font-face {
+    font-family: 'Bahij Nazanin Regular';
+    src: url('Bahij Nazanin-Regular.ttf');
+}
+@font-face {
+    font-family: 'Bahij Nazanin Bold';
+    src: url('Bahij Nazanin-Bold.ttf');
+}
