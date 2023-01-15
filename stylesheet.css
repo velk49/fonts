@@ -949,3 +949,11 @@ src: url('0yb9GDohyKTYn_ZEERkiaE0.woff2') format('woff2');
     font-family: 'Bahij Nazanin Bold';
     src: url('Bahij Nazanin-Bold.ttf');
 }
+@font-face {
+    font-family: 'Lato Regular';
+    src: url('Lato-Regular.ttf');
+}
+@font-face {
+    font-family: 'Lato Black';
+    src: url('Lato-Black.ttf');
+}
