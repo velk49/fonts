@@ -2,7 +2,7 @@
 
 a **personal** archive of webfonts
 
-`@import url(https://victorlee.github.io/fonts/stylesheet.css);`
+`@import url(https://vctrle.github.io/fonts/stylesheet.css);`
 
 [test the fonts!](test.html)
 
@@ -205,5 +205,7 @@ a **personal** archive of webfonts
 - `XB Kayhan Bold` (Arabic, Persian, Pashto, Urdu, Uyghur)
 - `Riwaj` (Arabic)
 - `Scheherazade Bold` (Arabic)
+- `Lato Regular`
+- `Lato Black`
 
 ## Please leave a note on *issues* for any copyright claims.
