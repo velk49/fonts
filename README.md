@@ -207,5 +207,6 @@ a **personal** archive of webfonts
 - `Scheherazade Bold` (Arabic)
 - `Lato Regular`
 - `Lato Black`
+- `Roboto`
 
 ## Please leave a note on *issues* for any copyright claims.
