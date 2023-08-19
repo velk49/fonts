@@ -575,6 +575,10 @@ src: url('0yb9GDohyKTYn_ZEERkiaE0.woff2') format('woff2');
     src: url('veleka.regular.ttf');
 }
 @font-face {
+    font-family: 'VelekaSVG';
+    src: url('Veleka.Regular.svg');
+}
+@font-face {
     font-family: 'Kawkab Mono';
     src: url('KawkabMono-Regular.ttf');
 }
