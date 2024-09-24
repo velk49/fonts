@@ -969,3 +969,7 @@ src: url('0yb9GDohyKTYn_ZEERkiaE0.woff2') format('woff2');
   font-family: 'NotoSerifOldUyghur';
   src: url('NotoSerifOldUyghur-Regular.ttf');
 }
+@font-face {
+  font-family: 'Noto Serif KR';
+  src: url('NotoSerifKR-Regular.ttf');
+}
