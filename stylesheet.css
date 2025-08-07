@@ -197,8 +197,12 @@ src:local('Mongolian Title'), url('mngltitleotf.ttf') format('truetype');
 		url('MongolianScript.ttf') format('truetype');
 }
 @font-face {
-font-family: 'Menk Qimed Tig';
-src:local('Menk Qimed Tig'), url('MenkQimedTig.ttf') format('truetype');
+    font-family: 'Menk Qimed Tig';
+    src: url('MenkQimedTig.woff2') format('woff2'),
+        url('MenkQimedTig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 @font-face {
 	font-family: 'BhashitaComplex';
